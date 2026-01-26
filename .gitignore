@@ -1,0 +1,12 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Python basura
+__pycache__/
+*.py[cod]
+
+# Google Cloud (¡Muy importante!)
+*.json
+.gcp/
