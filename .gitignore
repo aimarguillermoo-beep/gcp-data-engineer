@@ -10,3 +10,12 @@ __pycache__/
 # Google Cloud (¡Muy importante!)
 *.json
 .gcp/
+
+# Datos temporales y resultados
+input/
+output/
+temp/
+staging/
+
+# Archivos de sistema
+.DS_Store
